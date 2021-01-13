@@ -1,0 +1,39 @@
+.website-logo{
+    width: 250px;
+    height: 40px;
+}
+
+.nav-bg-color{
+    background-color: rgba(252, 246, 236, 0.897);
+
+}
+
+.header-bg-color{
+    background-color: rgba(252, 246, 236, 0.897);
+}
+
+.anchor-font-weight{
+    font-weight: bold;
+}
+
+.banner-description h1{
+    font-size: 65px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+}
+
+.buy-now{
+    background-color: rgb(164, 188, 70);
+    border-radius: 10px;
+    border: none;
+    color: white;
+
+}
+
+.banner-image img{
+    width: 100%;
+}
+
+#coloring-head{
+    color: orange;
+}
