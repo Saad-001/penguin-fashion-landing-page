@@ -17,9 +17,10 @@
 }
 
 .banner-description h1{
-    font-size: 65px;
+    font-size: 68px;
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: bold;
+    letter-spacing: -3px;
 }
 
 .buy-now{
@@ -27,7 +28,6 @@
     border-radius: 10px;
     border: none;
     color: white;
-
 }
 
 .banner-image img{
@@ -35,5 +35,38 @@
 }
 
 #coloring-head{
+    color: orange;
+}
+
+
+.woman-jacket h1{
+    letter-spacing: -2px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+
+}
+
+.card-item{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 7px 7px 5px #eee;
+}
+
+.card-item h5{
+    font-weight: bold;
+}
+
+.card-item img{
+    border-radius: 20px;
+    width: 100%;
+    height: 400px;
+}
+
+.footer-item{
+    border: none;
+
+}
+
+.footer-item h3{
     color: orange;
 }
