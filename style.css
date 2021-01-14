@@ -70,3 +70,23 @@
 .footer-item h3{
     color: orange;
 }
+
+.icon-area img{
+    
+    height: 80px;
+}
+
+.contact-col img{
+    width: 100%;
+
+}
+
+.icon-area-section{
+    margin-top: 150px;
+
+}
+
+.shadow-icon-area{
+    box-shadow: 6px 6px 5px #eee;
+    border-radius: 15px;
+}
